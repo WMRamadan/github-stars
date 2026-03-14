@@ -1,5 +1,5 @@
 # Kubernetes Stars
-A Curated List of Top Github Repo's
+A Curated List of Top Github Kubernetes Repo's
 
 | Category | Repo | Stars |
 | ---- | ---- | ---- |
